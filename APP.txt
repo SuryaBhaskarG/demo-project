@@ -2,3 +2,7 @@
 
 --->signUp page
 --->signIn page
+
+// new changes
+--->Home page
+--->product page
